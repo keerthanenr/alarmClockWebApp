@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-alarmclockwebapp-dev-233523-authRole",
+      "UnauthRoleArn": "arn:aws:iam::780471137292:role/amplify-alarmclockwebapp-dev-233523-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::780471137292:role/amplify-alarmclockwebapp-dev-233523-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-alarmclockwebapp-dev-233523-deployment",
+      "UnauthRoleName": "amplify-alarmclockwebapp-dev-233523-unauthRole",
+      "StackName": "amplify-alarmclockwebapp-dev-233523",
+      "StackId": "arn:aws:cloudformation:us-east-2:780471137292:stack/amplify-alarmclockwebapp-dev-233523/443ad630-acec-11ee-86e2-066126b73535",
+      "AmplifyAppId": "d1je5cf455wk9e"
+    },
+    "categories": {
+      "auth": {
+        "alarmclockwebapp64d99156": {}
+      }
+    }
+  }
+}
