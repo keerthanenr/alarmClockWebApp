@@ -18,3 +18,12 @@ amplifytools.xcconfig
 .secret-*
 **.sample
 #amplify-do-not-edit-end
+amplify/team-provider-info.json
+amplify/cli.json
+amplify/backend/backend-config.json
+amplify/backend/api/alarmclockwebapp/cli-inputs.json
+amplify/backend/api/alarmclockwebapp/parameters.json
+amplify/backend/api/alarmclockwebapp/schema.graphql
+amplify/backend/api/alarmclockwebapp/transform.conf.json
+amplify/backend/auth/alarmclockwebapp024803ed/parameters.json
+amplify/backend/types/amplify-dependent-resources-ref.d.ts
